@@ -30,8 +30,7 @@ Swisstronik Testnet 1.0 introduces a groundbreaking approach to building and dep
 
 Connect with the Swisstronik community:
 
-[Website]() 🌐
-
-[Twitter]() 🐦
-
-[Discord]() 🐙
+🌐 [Website](https://link.swisstronik.com/44e)
+📢 [Twitter](https://link.swisstronik.com/964)
+💬 [Discord](https://link.swisstronik.com/2tz)
+📖 [Documentation](https://link.swisstronik.com/u7a)
