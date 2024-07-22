@@ -1,7 +1,3 @@
-# Welcome to Swisstronik 🚀
-
-![S[https://github.com/SigmaGmbH](https://github.com/SigmaGmbH)
-
 ## **Swisstronik Incentivized Testnet 2.0: Shape the Future of Blockchain Tech🔒** 
 
 Swisstronik Testnet 2.0 is a simulated environment that mirrors the core functionalities planned for the Swisstronik mainnet. Testnet 2.0 welcomes developers \- experienced and junior ones, to interact with our ecosystem, provide feedback that would help us improve it, shape the development of the blockchain platform focused on compliance and data protection \- and earn rewards in return\! 
